@@ -1,5 +1,5 @@
 # Enigma machine
-This is python-based implementation of [Enigma machine](https://en.wikipedia.org/wiki/Enigma_machine), a kind of cipher device used by Nazi Germany in WII.
+This is python-based implementation of [Enigma machine](https://en.wikipedia.org/wiki/Enigma_machine), a kind of cipher device used by Nazi Germany in WWI.
 
 ## Inspired by
 This code is inspired by [How did the Enigma Machine work?](https://www.youtube.com/watch?v=ybkkiGtJmkM&t=467s). They represent complete operation of Enigma machine by really great animation. And It is very helpful for me to comprehenze.
